@@ -1,0 +1,7 @@
+Completed tasks:
+
+- 2.1, full completed;
+- 2.2, full completed;
+- 2.3, created only methods:
+	- ADD;
+	- SUB.
