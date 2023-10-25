@@ -1,0 +1,5 @@
+You need start “index.html” file in any browser.
+After this you need to enter a string (value) which you want to encrypt.
+Then you need open console of developer (push button “F12”).
+Then, you should open the tab “Console”, where you can see output.
+The code you can see in files (modules) by path "/js/modules" and main file "script.js".

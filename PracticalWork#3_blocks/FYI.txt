@@ -1,0 +1,4 @@
+Completed tasks:
+
+- Moving bits in a P-block;
+- Shift operation in S-blocks.
