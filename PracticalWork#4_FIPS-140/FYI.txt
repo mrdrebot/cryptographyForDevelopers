@@ -1,0 +1,5 @@
+Completed tasks:
+
+- All tests completed.
+
+Storing large data in an array was not performed, as a row of 0 and 1 is generated immediately, according to the task, and dividing the row into parts of 8 elements and then reassembling it into a row was rejected as an operation that would increase the number of calculations.
